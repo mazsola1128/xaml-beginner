@@ -21,8 +21,8 @@
         <TextBlock Text="Resaturant Manager" VerticalAlignment="Bottom" HorizontalAlignment="Center" Grid.ColumnSpan="2" />
         <TextBlock Text="Internal Test Version" VerticalAlignment="Bottom" FontSize="24" HorizontalAlignment="Center" Grid.Row="1" Grid.ColumnSpan="2" />
         
-        <TextBlock Text="**Go to Orders view**" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3" />
-        <TextBlock Text="**Submit Order**" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="1" />
+        <Button x:ConnectionId='1' x:Name="GoOrder" Content="Go to Orders view" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3"                       />
+        <Button x:ConnectionId='2' x:Name="SubOrder" Content="Submit Order" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="1"                        />
         
     </Grid>
 </Page>

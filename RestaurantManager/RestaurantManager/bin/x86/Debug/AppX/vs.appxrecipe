@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-27T19:57:08.710</Modified>
+      <Modified>2015-09-30T20:20:36.715</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -72,7 +72,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\entrypoint\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-27T19:56:11.021</Modified>
+      <Modified>2015-09-30T20:20:34.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -92,15 +92,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-27T19:57:06.139</Modified>
+      <Modified>2015-09-30T20:20:35.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2015-09-27T19:57:08.705</Modified>
+      <Modified>2015-09-30T20:20:36.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2015-09-27T19:47:53.932</Modified>
+      <Modified>2015-09-30T20:20:34.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\!JEGYZET\Introduction to XAML and Application Development\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

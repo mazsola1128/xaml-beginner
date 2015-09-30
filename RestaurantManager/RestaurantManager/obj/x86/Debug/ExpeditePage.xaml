@@ -12,8 +12,18 @@
             <RowDefinition Height="0.9*" />
             <RowDefinition Height="0.1*" />
         </Grid.RowDefinitions>
-        
-        <TextBlock Text="**Clear All Orders" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+        <StackPanel>
+            <AppBar>
+                <AppBarButton x:ConnectionId='1' HorizontalAlignment="Left" Icon="Home" Label="Home"                            />
+            </AppBar>
+
+            <GridView>
+            
+            </GridView>
+        </StackPanel>
+
+        <Button Content="Clear All Orders" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" />
         
     </Grid>
 </Page>
